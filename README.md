@@ -12,7 +12,7 @@ After graduating from Penn State, I moved to Washington, D.C. to work at a light
 
 When I’m not working or studying, I enjoy working out, visiting museums, and reading. Some of the books that I’ve read recently include Dracula, Middlesex, the Rape of Europa, among many others. I also enjoy watching classic/old movies, such as Hitchcock films, as well as foreign films (to brush up on my dwindling French skills).  
 
-
+![Image of me in Prague](Prague.png)
 
 # What I hope to learn
 In the nonprofit arts field, we excel at telling impactful stories about how art changes the lives of our visitors and community members. But we often struggle to obtain the quantitative data needed to support those stories. When robust quantitative data exists, museum professionals often lack the skills, time, and resources to interpret the data and create meaningful data visualizations. 
