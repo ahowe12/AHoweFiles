@@ -12,10 +12,14 @@ After graduating from Penn State, I moved to Washington, D.C. to work at a light
 
 When I’m not working or studying, I enjoy working out, visiting museums, and reading. Some of the books that I’ve read recently include Dracula, Middlesex, the Rape of Europa, among many others. I also enjoy watching classic/old movies, such as Hitchcock films, as well as foreign films (to brush up on my dwindling French skills).  
 
+![me in Prague](Prague.jpg)
+
 # What I hope to learn
 In the nonprofit arts field, we excel at telling impactful stories about how art changes the lives of our visitors and community members. But we often struggle to obtain the quantitative data needed to support those stories. When robust quantitative data exists, museum professionals often lack the skills, time, and resources to interpret the data and create meaningful data visualizations. 
 
 My goal for this course is to learn how to tell a compelling story given limited data and tools. I’m looking forward to learning about free, online resources that exceed Excel’s data visualization capabilities. I love Excel, but its charts are boring. I hope to develop a more critical eye for determining what is a good chart and then have the skills to make a better one. I also want to have a professional looking final project that I can show to prospective employers and link to my LinkedIn page. 
+
+I also want to learn how to resize and change the orientation of images in Github...my attempt at adding an image to this page was only somewhat successful. 
 
 # Portfolio
 This is where my data visualizations will go.
