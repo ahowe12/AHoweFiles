@@ -1,2 +1,2 @@
-# AHoweFiles
-Telling Stories with Data - Alena Howe
+# Alena Howe's Portfolio
+This is my portfolio for Telling Stories with Data.
