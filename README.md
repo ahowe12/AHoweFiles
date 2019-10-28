@@ -22,6 +22,7 @@ My goal for this course is to learn how to tell a compelling story given limited
 As a side note, I also want to learn how to resize and change the orientation of images in Github...my attempt at adding an image to this page was only somewhat successful. 
 
 # Portfolio
+This is where my data visualizations will go. 
 
 Data Visualization 1: 
 
