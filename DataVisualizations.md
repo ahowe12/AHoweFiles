@@ -3,12 +3,14 @@ Return to [portfolio](https://ahowe12.github.io/Alena-Howe-s-Portfolio/)
 
 General Government Debt - Bar Chart
 
-
+*Gross Debt as a Percentage of GDP per Country*
 
 <iframe src="https://data.oecd.org/chart/5Jjs" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5Jjs" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 
 General Government Debt - Beeswarm Plot
+
+*Gross Debt as a Percentage of GDP per Country from 1996 to 2018*
 
 This visualization show the gross debt of 35 countries' general governments as a percentage of their respective GDPs from 1996 to 2018. Gross debt indicates the sustainability of each country's government finances. The data are displayed using a beeswarm plot, which is a one-dimensional scatter plot that distributes data points horizontally so that the data don't overlap accross a selected dimension. This allows each data point to be seen in full. In this visualization, each dot represents its respective country's gross debt in a particular year. The larger the dot, the greater that country's gross debt. 
 
@@ -17,7 +19,9 @@ This visualization show the gross debt of 35 countries' general governments as a
 
 General Government Debt - Area Graph
 
-In a second attempt to create a data visualization for the General Government Debt data, I experimented with streamgraphs, bumpgraphs, and horizon charts but found that these visualizations were difficult to interpret and didn't display the country names in an orderly manner. This led me to choose the area graph, which spreads each country's data horizontally and leaves enough space between each country so that the data can be read easily. I don't like how the years don't render correctly in this visualization, but I still deemed this option to be better than the others. 
+*Gross Debt as a Percentage of GDP per Country from 1996 to 2018*
+
+According to RAWGraphics, an area graph displays "a series of small similar graphics or charts, allowing them to be easily compared." This graph spreads each country's data horizontally to account for changes over time and leaves enough space between each country's data to make it easier to read. I don't like how the years don't render correctly in this visualization, but I still deemed this option to be better than the others. 
 
 RAWGraphics initially assigned a color to each country, which created a rainbow effect. To simplify the chart, I calculated the difference between each country's gross debt in 1996 and 2018. Those calculations allowed me to identify which countries had decreasing, stagnant, and increasing gross debts. Using a color palette from ColorBrewer2.0, I assigned a color-blind safe palette to the visualization. Orange is assigned to the countries with the largest increases in gross debts over time. I used gray to identify the countries with slight to moderate increases in debt over time. Since these changes are less exteme, they are considered background information in this chart. Light blue is assigned to countries with realtively stagnant gross debts over time. Dark blue is assigned to countries with decreasing debts over time. For each country, the data are interpreted by reading from left to right. Thinner parts of the line represent decreases in gross government debt. 
 
@@ -25,5 +29,6 @@ RAWGraphics initially assigned a color to each country, which created a rainbow 
 
 Exercise Summary:
 
+The problem with the bar chart visualization is that it doesn't show the fluctuations in gross debt over time. It does a good job at showing which countries have the largest amount of debt, but that's not the point of the data set. The beeswarm plot is hard to read, because the data points are too spread out and there is no indication of what the size of the dots represents. It's challenging to tell the difference between some of the dot sizes, as well. It is better than the bar chart in that it displays the data over time.
 
-
+In a third attempt to create a data visualization for the data set, I experimented with streamgraphs, bumpgraphs, and horizon charts but found that these visualizations were difficult to interpret and didn't display the country names in an orderly manner. This led me to choose the area graph, which spaces out the data while also dispalying it in a condensed chart. I don’t like how the years don’t render correctly in this visualization, but I still deemed this chart to be better than the other options. Similar to the beeswarm chart, the area graph distributes the data over time but doesn't display the actual gross debt numbers. 
