@@ -21,7 +21,7 @@ As a side note, I also want to learn how to resize and change the orientation of
 
 # Portfolio 
 Link to Data Visualization Homework exercises: [DataVis](/DataVisualizations.md)
-Link to Data Critique & Visualization #2: [DataCritique&Visualization2](/Data Critique & Visualization #2.md)
+Link to Data Critique & Visualization #2: [DataCritique&Visualization2](/DataCritique&Visualization2.md)
 
 
 CLASS EXERCISES:
