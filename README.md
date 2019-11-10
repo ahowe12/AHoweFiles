@@ -20,8 +20,8 @@ My goal for this course is to learn how to tell a compelling story given limited
 As a side note, I also want to learn how to resize and change the orientation of images in Github...my attempt at adding an image to this page was only somewhat successful. 
 
 # Portfolio 
-Link to Data Visualization Homework exercises: [DataVis](/DataVisualizations.md)
-Link to Data Critique & Visualization #2: [DataCritique&Visualization2](/DataCritique&Visualization2.md)
+Week 1: Link to Data Visualization Homework exercises: [DataVis](/DataVisualizations.md)
+Week 3: Link to Data Critique & Visualization #2: [DataCritique&Visualization2](/DataCritique&Visualization2.md)
 
 
 CLASS EXERCISES:
