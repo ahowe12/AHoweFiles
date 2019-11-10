@@ -8,11 +8,11 @@ Return to [portfolio](https://ahowe12.github.io/Alena-Howe-s-Portfolio/)
 
 *Original visualization:*
 
-![Original visualization](/Alena-Howe-s-Portfolio/Wages from Data USA.png)
+![Original visualization](/Wages from Data USA.png)
 
 *Wireframes*
 
-![wireframes](/ahowe12/Wireframes.jpg)
+![wireframes](/Wireframes.jpg)
 
 When remaking this visualization, I wanted to focus on one occupation at a time. Since the target audience is museum professionals, I decided to focus on the “archivists, curators and museum technicians” occupation. In my wireframes, I experimented with ways to reflect changes over time. My first wireframe is a step in the right direction, but a bar chart still isn’t the best visualization. In my second wireframe, I experimented with a line graph, which is a better representation of changes in average salary over time. By roughly plotting the data, it’s easy to see that the original visualization was inaccurate and misleading.  
 
