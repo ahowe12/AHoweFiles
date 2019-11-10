@@ -12,7 +12,7 @@ Return to [portfolio](https://ahowe12.github.io/Alena-Howe-s-Portfolio/)
 
 *Wireframes*
 
-![wireframes](/Alena-Howe-s-Portfolio/Wireframes.jpg)
+![wireframes](/ahowe12/Wireframes.jpg)
 
 When remaking this visualization, I wanted to focus on one occupation at a time. Since the target audience is museum professionals, I decided to focus on the “archivists, curators and museum technicians” occupation. In my wireframes, I experimented with ways to reflect changes over time. My first wireframe is a step in the right direction, but a bar chart still isn’t the best visualization. In my second wireframe, I experimented with a line graph, which is a better representation of changes in average salary over time. By roughly plotting the data, it’s easy to see that the original visualization was inaccurate and misleading.  
 
@@ -22,7 +22,7 @@ In my initial sketch, I started labeling the year increments, beginning with 201
 
 *Final Visualization*
 
-![Final visualization](/Alena-Howe-s-Portfolio/MuseumLineChart.png)
+![Final visualization](/MuseumLineChart.png)
 
 My first reaction to the original visualization was that a lot was going on. The chart compared the average annual salaries of six race/ethnicity groups across five occupations over four years, but only one year could be analyzed at a time. This made comparing changes over time difficult. The order of the occupation groups changed from year to year. The y-axis average salary increments changed when toggling between years. And, the bars for each of the race/ethnicity groups weren’t labeled. The viewer had to hover her cursor over each unlabeled box in the key to learn which color corresponded to each race/ethnicity group. These issues made me want to re-visualize the data in a way that focused on one occupation, showed salary changes over time, and had set salary increments. The number of issues with interpreting the original charts made me suspicious about what the data was actually communicating. 
 
