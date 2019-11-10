@@ -8,7 +8,12 @@ Return to [portfolio](https://ahowe12.github.io/Alena-Howe-s-Portfolio/)
 
 *Original visualization:*
 
+For this assignment, I wanted to find a data set that tells a story about salaries and diversity in the museum field. These are two popular topics in the field and have experienced positive change over the past few decades. However, there is still a lot of progress yet to be made, and there is a need for more accurate and comprehensive data on these trends. 
+
+The best data source I could find was on Data USA’s website under the Museums, Art Galleries, Historical Sites, & Similar Institutions section. The visualization that caught my attention is the “Wage by Race & Ethnicity in Common Jobs” bar chart. The data for this chart was provided by the Census Bureau ACS PUMS 1-Year Estimate.  
+
 ![Original visualization](/Wages from Data USA.png)
+
 
 *Wireframes*
 
@@ -19,6 +24,7 @@ When remaking this visualization, I wanted to focus on one occupation at a time.
 The user feedback that I got from a friend and my roommate was to use colors that are easier to read – my wireframes were colored using pen and some of the colors were hard to tell apart. My friends were able to understand what my visualization was trying to communicate, but they also shared my skepticism about the data’s completeness and meaning. The lesson that I learned is that even though the data came from a reliable source, like USA Data or the Census Bureau, that doesn’t mean that the data is complete enough to represent the story that the visualization is trying to tell. By remaking the chart, I’m going to show that the data is flawed and unfit to show wage changes by race/ethnicity.  
 
 In my initial sketch, I started labeling the year increments, beginning with 2014, at the origin. The problem with this was that at first glance it looked as if the years started at zero. I was advised to shift the increments to the right. I put a dashed mark on the x-axis to emphasize that the distance between the 2014 mark and the origin didn’t represent one year but rather the chart started at 2014. 
+
 
 *Final Visualization*
 
