@@ -2,38 +2,38 @@
 
 Return to [portfolio](https://ahowe12.github.io/Alena-Howe-s-Portfolio/)
 
-# PART 1
+# Part 1
 
-*Outline*
+**Outline**
 
-Summary:  
+*Summary*  
 
-Story Arc:
+*Story Arc*
 
-Call to Action:
+*Call to Action*
 
-User Stories:
-
-
-
-*Initial Sketches*
-
-Sketch 1:
-
-Sketch 2:
-
-Sketch 3:
+*User Stories*
 
 
 
-*Data*
+**Initial Sketches**
 
-Overview: 
+*Sketch 1:*
 
-Link to data sources: 
+*Sketch 2:*
+
+*Sketch 3:*
 
 
 
-*Method & Medium*
+**Data**
+
+*Overview*
+
+*Link to data sources:* 
+
+
+
+**Method & Medium**
 
 Explanation of how I will use Shorthand & what my final presentation will go. 
