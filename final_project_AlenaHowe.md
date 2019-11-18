@@ -33,9 +33,9 @@ The third potential audience for this story is the typical American who might no
 
 My sketches aim to show which parts of our country have the highest and/or lowest number of museums/arts organizations per geographical area or per capita by state. They show which parts of our country value certain types of organization over others. They also show how state population correlates to museum revenue depending on the discipline. These visualizations will help me make a case for which areas of our country could benefit from increased investment in the arts. 
 
-- [sketches, page 1](FinalSketches1.jpg)
-- [sketches, page 2](FinalSketches2.jpg)
-- [sketches, page 3](FinalSketches3.jpg)
+- ![sketches, page 1](/FinalSketches1.jpg)
+- ![sketches, page 2](/FinalSketches2.jpg)
+- ![sketches, page 3](/FinalSketches3.jpg)
 
 
 **Data**
