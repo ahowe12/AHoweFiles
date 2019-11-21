@@ -1,5 +1,7 @@
 # Final Project, Part II
 
+Return to [portfolio](https://ahowe12.github.io/Alena-Howe-s-Portfolio/)
+
 **User Research Protocol**
 
 *Target Audiences* 
@@ -33,11 +35,11 @@ Questions about the visualizations:
 
 *Interview Findings*
 
-•	Interviewee #1: TBD
-•	Interviewee #2: TBD
-•	Interviewee #3: TBD
-•	Interviewee #4: TBD
-•	Interviewee #5: TBD
+- Interviewee #1: TBD
+- Interviewee #2: TBD
+- Interviewee #3: TBD
+- Interviewee #4: TBD
+- Interviewee #5: TBD
 
 *Post-Interview Changes*
 
@@ -47,7 +49,13 @@ TBD - Changes implemented to sketches, storyboards and wireframes to address the
 
 I used the Hubspot persona generator to create personas for my target audiences. The first persona is Maria who represents the museum fundraiser target audience. The second persona is Daniel who represents the general public target audience. 
 
+Persona 1: Maria (Museum Fundraiser)
+![Persona-Maria](/Persona - Maria.pdf)
+
+Persona 2: Daniel (General Public)
+![Persona-Daniel](/Persona - Daniel.pdf)
+
 **Mood Board**
 
-My mood board includes images of engaged museum visitors, infographics, and data visualizations of the museum sector. 
-
+My moodboard includes images of engaged museum visitors, infographics, and data visualizations of the museum sector. 
+![Moodboard](/Moodboard.jpeg)
