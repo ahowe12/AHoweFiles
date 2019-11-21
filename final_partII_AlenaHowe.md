@@ -15,12 +15,12 @@ Return to [portfolio](https://ahowe12.github.io/Alena-Howe-s-Portfolio/)
 *Target Audiences* 
 
 There are two target audiences that I hope to reach with my story:
-1.	Museum fundraisers: They are tasked with making a case for why their institution needs sustained or increased funding. They could use my visualizations to better understand how competitive/saturated their market is or to make a case for why their institution is vital to their community (especially for communities that have little access to museums). They would use this information when writing a grant for a foundation or soliciting a donor. They would focus on the supply and demand of museums on a per capita basis.
+1.	Current/persepctive museum fundraisers/professionals: They are tasked with making a case for why their institution needs sustained or increased funding. They could use my visualizations to better understand how competitive/saturated their market is or to make a case for why their institution is vital to their community (especially for communities that have little access to museums). They would use this information when writing a grant for a foundation or soliciting a donor. They would focus on the supply and demand of museums on a per capita basis. Museum professionals entering the field could use this information to determine where the most jobs are and where salaries might be the highest. 
 2.	General public: These visualizations would help people outside of the museum field understand how broad and diverse this sector is and demonstrate how little or how much access they have to these resources. For people who aren’t aware of the museums in their geographic area, my visualizations might encourage them to explore their local museum sector. For people who participate in the arts, my visualizations might encourage them to start donating or increase their giving to the institutions that they value. 
 
 *Interviewees*
 
-I’m going to identify individuals to interview based on my knowledge of their engagement in the arts. For instance, I plan on interviewing a couple of students in my Advanced Fundraising class, because they are knowledgeable about the impact of the arts sector as well as donor motivations to give. They are my “expert” audience. My “novice” audience that more closely represents the general public will be individuals outside of the MAM program who aren’t as familiar with the field. I will get feedback from my roommate, boyfriend, and non-MAM classmates in Telling Stories with Data. My goals for the interview are to gauge whether the participants understand what the visualizations are about as well as their level of interest in the content (do they want to learn more/did they learn something new). 
+I’m going to identify individuals to interview based on my knowledge of their engagement in the arts. For instance, I plan on interviewing a Master of Arts Management (MAM) student from my Advanced Fundraising class, because she would be knowledgeable about the impact of the arts sector as well as donor motivations to give. I will also interview one or two MAM students who aren't taking TSWD and aren't going into visual arts. The MAM students are my “expert” audience. My “novice” audience that more closely represents the general public will be individuals outside of the MAM program and TSWD who aren’t as familiar with the field or this assignment. My goals for the interview are to gauge whether the participants understand what the visualizations are about as well as their level of interest in the content (do they want to learn more/did they learn something new). 
 
 *Interview Script*
 
@@ -28,7 +28,7 @@ Thank you for participating in this feedback exercise for my Telling Stories wit
 
 *Interview Questions*
 
-Before showing the visualizations: 
+Warm-up Questions: 
 1.	How many times per year do you visit museums or participate in arts and cultural activities?
 2.	What types of institutions come to mind when thinking about the museum/cultural sector? 
 3.	How many museums do you think there are in the United States?  
@@ -43,11 +43,34 @@ Questions about the visualizations:
 
 *Interview Findings*
 
-- Interviewee #1: TBD
-- Interviewee #2: TBD
-- Interviewee #3: TBD
-- Interviewee #4: TBD
-- Interviewee #5: TBD
+- Interviewee #1: MAM student with background in performing arts
+  - Warm-up answers: Visits about 5 museums per year; thinks of art and history museums as well as zoos; estimates 10,000 museums across the country
+  - Potentially leave out hisorical societies and general museums on the museum discipline graph, because they aren't as closely associated with the traditional museum disciplines (like art museums) and their large numbers could distort the visualizations 
+  - On the museums by region map, narrow the focus to traditional museum disciplines so the graph is less cluttered (e.g. remove histroical societies and general museums) and you can see each proportion better
+  - On the map of museums per capita, it would be interesting to see the cities with the most museums per capita, but that would clutter the map - don't add a layer of complexity 
+  - In reference to vibrancy bar graphs on the storyboard, it would be more impactful to focus on the least vibrant states and cities instead of the most vibrant (people can probably guess these)
+  
+- Interviewee #2: MAM student with background in music
+  - Warm-up answers: Visits 5 to 6 museums per year; thinks first of art museums followed by history msueums; estimates 5,000 museums in US
+  - This story is about defining museums and what different types exist, how many there are, where are they and where does the funding go
+  - This story is relevant to people working in the museum field or the arts and cultual sector or people working on policy regarding federal funding for museums; also interesting for the general public because museums exist to serve the public
+  - Confused about the scatterplot - it would be helpful to have a key that matches a color to the most and lease vibrant states
+  - On the museums by region graph, thinks there might be too many categories and suggests carefully choosing the colors for each discipline so you can distinguish between them
+  - Learning outcome: didn't know about all the different museum disciplines and where they are located
+  - Wants to know additional information that goes beyond the scope of this project including how many museums are free, attendance trends, and how the public uses these institutions 
+  
+- Interviewee #3: Non-MAM student at Heinz
+  - Warm-up answers: Visits musuems 5 times per year but attends about 10 to 20 arts and cultural experiences each year; thinks of art and history museums; estimates at least 1,000 museums in the US
+  - Wants to see vibrant colors on the museum discipline graph and match those colors to the museums by region graph
+  - On the museums by region graph, find a way to list which states are in each region
+  - On the scatterplot, wants to see the total revenue and museums per capita data listed underneath each state label
+  - Thinks this story's purpose is for making a case for museum support
+  - Target audience is museum fundraisers located in under represented communities; this information is relevant to institutions like Americans for the Arts and foundations/grantmakers
+  - Biggest takeaway: surprised to learn that art museums are such a small portion of the sector; really likes the US map with museums per capita
+  - Suggestion for map: create a filter for each museum discipline so the user can focus on museums of interest
+
+- Interviewee #4: Roommate - ETC student
+
 
 *Post-Interview Changes*
 
