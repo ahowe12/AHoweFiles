@@ -50,12 +50,13 @@ TBD - Changes implemented to sketches, storyboards and wireframes to address the
 I used the Hubspot persona generator to create personas for my target audiences. The first persona is Maria who represents the museum fundraiser target audience. The second persona is Daniel who represents the general public target audience. 
 
 Persona 1: Maria (Museum Fundraiser)
-![Persona-Maria](/Persona - Maria.pdf)
+Link to [Persona-Maria](/Persona - Maria.pdf)
 
 Persona 2: Daniel (General Public)
-![Persona-Daniel](/Persona - Daniel.pdf)
+Link to [Persona-Daniel](/Persona - Daniel.pdf)
 
 **Mood Board**
 
 My moodboard includes images of engaged museum visitors, infographics, and data visualizations of the museum sector. 
+
 ![Moodboard](/Moodboard.jpeg)
