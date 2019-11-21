@@ -50,10 +50,10 @@ TBD - Changes implemented to sketches, storyboards and wireframes to address the
 I used the Hubspot persona generator to create personas for my target audiences. The first persona is Maria who represents the museum fundraiser target audience. The second persona is Daniel who represents the general public target audience. 
 
 Persona 1: Maria (Museum Fundraiser)
-- [Persona-Maria](Persona - Maria.pdf)
+- ![Persona-Maria](Persona - Maria.pdf)
 
 Persona 2: Daniel (General Public)
-- [Persona-Daniel](Persona - Daniel.pdf)
+- ![Persona-Daniel](Persona - Daniel.pdf)
 
 **Mood Board**
 
