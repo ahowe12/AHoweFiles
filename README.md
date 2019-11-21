@@ -24,7 +24,8 @@ As a side note, I also want to learn how to resize and change the orientation of
 # Portfolio 
 - Week 1: Link to Data Visualization Homework exercises: [DataVis](/DataVisualizations.md)
 - Week 3: Link to Data Critique & Visualization #2: [DataCritique&Visualization2](/DataCritique&Visualization2.md)
-- Week 5: Link to FINAL PROJECT: [FinalProject](final_project_AlenaHowe.md)
+- Week 5: Link to Final Project, Part I: [FinalProject](final_project_AlenaHowe.md)
+- Week 6: Link to Final Project, Part II: [FinalProjectPartII](final_partII_AlenaHowe.md)
 
 
 CLASS EXERCISES:
