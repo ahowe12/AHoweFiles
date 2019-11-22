@@ -70,7 +70,12 @@ Questions about the visualizations:
   - Suggestion for map: create a filter for each museum discipline so the user can focus on museums of interest
 
 - Interviewee #4: Roommate - ETC student
-
+  - Warm-up answers: Visits 2-3 museums per year; thinks of art, history and science museums; estimates 8,000 museums in US
+  - For the museum discipline diagram, doesn't care what kinds of museums exist. Suggests using that written content as part of introduction about museum vibrancy
+  - For the museum disciplines by region map, suggest simplifying the visualization by just showing total by region (proportions of disciplines aren't necessary)
+  - Suggested flow of information: vibrancy introduction to US map - museums per capita to bar graph with museums by region
+  - On the map, wants to seee how many people per state and total revenue of museum sector per state
+  - Wants to see more of a focus on museum funding: what federal sources fund museums and where does the money go? Suggests showing breakdown of federal funding by top 5 and lowest 5 states using pie charts. 
 
 *Post-Interview Changes*
 
