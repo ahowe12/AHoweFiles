@@ -6,7 +6,11 @@ Return to [portfolio](https://ahowe12.github.io/Alena-Howe-s-Portfolio/)
 
 
 
+
 **Wireframes**
+
+In addition to my sketches, I've started to build out a rough version of my Shorthand site: https://preview.shorthand.com/JRsVecUYT2XTZTjS
+
 
 
 
