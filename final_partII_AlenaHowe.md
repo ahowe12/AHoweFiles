@@ -4,14 +4,15 @@ Return to [portfolio](https://ahowe12.github.io/Alena-Howe-s-Portfolio/)
 
 **Storyboard**
 
-
+![Storyboard](/Storyboard.jpg)
 
 
 **Wireframes**
 
 In addition to my sketches, I've started to build out a rough version of my Shorthand site: https://preview.shorthand.com/JRsVecUYT2XTZTjS
 
-
+![Wireframes1](/WireframesII1.jpg)
+![Wireframes2](/WireframesII2.jpg)
 
 
 **User Research Protocol**
