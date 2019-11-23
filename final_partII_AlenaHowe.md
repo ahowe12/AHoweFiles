@@ -84,9 +84,12 @@ Questions about the visualizations:
 
 *Post-Interview Changes*
 
-- Focus on museum professionals as my target audience
-- Address the historical societies and general museums 
-- Treemap chart for showing museum sector disciplines
+  - Introduction: Instead of jumping right into the definition of museum vibrancy, I'm going to start by defining what a museum is and then briefly list the museum disciplines that make up the sector. Then, I'll introduce the idea of museum vibrancy, how it's measured, and why it matters. 
+  - In my original wireframes, I began with a bar chart that shows the number of museums by discipline. The goal of this visualziation is to address the general public's misconceptions about what types of institutions are categorized as museums. Three of the four people who I intereviewed found this visualization to be informative. The fourth person said that she doesn't care what institutions make up the sector; she wants to see more information about funding and participation. I'm going to look more into what data exists. I can either 1) eliminate this visualization and summarize the sector in the introductory slide or 2) keep the visualization and provide a clear explanation of why this data is important. I can also experiment with displaying this data as a treemap chart. 
+  - I'm going to make the US map of museums per capita the first visualization and create filters for each of the disciplines. I'll provide an explanation of how the most and least vibrant states change depending on whether historical societies and general museums are counted. 
+  - I also want to experiment with a map that shows museum revenue by state. I'll continue to explore museum revenue by changing the stacked bar chart to reflect the proportion of revenue that each type of museum brings in by region. 
+  - My last visualization will be the scatterplot that shows the correlation between state popualtion and museum revenue. 
+  - Depending on what the data actually tells me, I might add a visualization that shows 
 
 **Updated Wireframes**
 
