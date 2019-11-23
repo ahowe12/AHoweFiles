@@ -84,7 +84,9 @@ Questions about the visualizations:
 
 *Post-Interview Changes*
 
-TBD - Changes implemented to sketches, storyboards and wireframes to address the issues identified.
+- Focus on museum professionals as my target audience
+- Address the historical societies and general museums 
+- Treemap chart for showing museum sector disciplines
 
 **Updated Wireframes**
 
