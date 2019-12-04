@@ -29,6 +29,7 @@ Grantmakers (such as foundations) and federal agencies (such as the IMLS, the NE
 The third potential audience for this story is the typical American who might not know about the diverse makeup of our country’s museum/non-profit arts sector. For instance, a typical person may think of the museum sector as comprising art museums, history museums, children’s museums, and the like, but may not know that this sector also includes zoos, aquariums, historical societies, science centers, etc. Many people don’t know how little federal funding these institutions receive compared to other sectors as well as the disparities in income across institutions and regions. These visualizations, along with additional research about museum services and funding, would inform the average person about how vital these institutions are to our communities. It might also surprise them how much, or how little, access they have to these institutions in their geographic area.
 
 
+
 **Initial Sketches**
 
 My sketches aim to show which parts of our country have the highest and/or lowest number of museums/arts organizations per geographical area or per capita by state. They show which parts of our country value certain types of organization over others. They also show how state population correlates to museum revenue depending on the discipline. These visualizations will help me make a case for which areas of our country could benefit from increased investment in the arts. 
@@ -36,6 +37,7 @@ My sketches aim to show which parts of our country have the highest and/or lowes
 ![sketches, page 1](/FinalSketches1.jpg)
 ![sketches, page 2](/FinalSketches2.jpg)
 ![sketches, page 3](/FinalSketches3.jpg)
+
 
 
 **Data**
@@ -62,6 +64,7 @@ Using this data, I’m going to create visualizations that speak to the vibrancy
 Frehill, L. M. and Pelczar, M. (2018). Data File Documentation: Museum Data Files, FY 2018 Release. Institute of Museum and Library Services: Washington, DC.
 
 Institute of Museum and Library Services. (2018). Museum Data Files. Retrieved from https://www.imls.gov/research-evaluation/data-collection/museum-data-files 
+
 
 
 **Method & Medium**
