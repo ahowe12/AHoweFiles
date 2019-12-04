@@ -10,7 +10,7 @@ Return to [portfolio](https://ahowe12.github.io/Alena-Howe-s-Portfolio/)
 
 
 **Link to Final Data Story:**
-
+https://carnegiemellon.shorthandstories.com/Alena-Howe-Museums/index.html
 
 **References**
 
