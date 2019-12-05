@@ -1,10 +1,20 @@
 # Final Project, Part III
 
-Return to [portfolio](https://ahowe12.github.io/Alena-Howe-s-Portfolio/)
-Link to Final Project, Part I: [FinalProject](final_project_AlenaHowe.md)
-Link to Final Project, Part II: [FinalProjectPartII](final_partII_AlenaHowe.md)
+- Return to [portfolio](https://ahowe12.github.io/Alena-Howe-s-Portfolio/)
+- Link to Final Project, Part I: [FinalProject](final_project_AlenaHowe.md)
+- Link to Final Project, Part II: [FinalProjectPartII](final_partII_AlenaHowe.md)
+
 
 **Audience:**
+
+There are two audiences for my story: museum professionals and the general public. The first half of my story, which focuses on defining the museum sector and addressing common misconceptions about the field, is more geared toward the general public, but this information also germane to museum professionals. The second half of my story, which focuses on IMLS funding, is more relevant to museum professionals than it is to the general public. The call to action applies to both audiences. The general public can support museums by visiting, becoming a member, and donating. The call to action pertaining more to museum professionals is to advocate for increased and more equitable IMLS funding as well as participate in advocacy events. 
+
+The links to my personas are provided below:
+
+- Persona 1: [Maria - Museum Fundraiser](Persona - Maria.pdf)
+- Persona 2: [Daniel - General Public](Persona - Daniel.pdf)
+
+The main way that I kept these audiences in mind when making my final project was to split the content into two sections: one for defining the museum sector and the other for exploring the equity of IMLS funding. I also tried to limit the number and complexity of the charts in my final project. I had originally planned to take a deeper dive into this topic, such as museums per capita and IMLS funding distributions on a more granular level, but adding that complexity muddled my message. I also experimented with different types of visualizations to try to make the presentation of the data more interesting. However, the types of visualizations that I ended up using were pretty basic: line charts, bar charts, tree map chart, etc. I aimed to present that story so that someone who knew very little about the museum sector could understand the visualizations. For this reason, I included a lengthier narrative in some parts of the project that provides more background information about the museum sector.  
 
 
 **What I Learned/How My Project Changed:**
