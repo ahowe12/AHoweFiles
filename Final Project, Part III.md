@@ -19,9 +19,21 @@ The main way that I kept these audiences in mind when making my final project wa
 
 **What I Learned/How My Project Changed:**
 
+The major takeaway that I have from this project is that the museum field has very little data that is complete and accessible. This potentially contributes to the people working in the sector and funding the sector making decisions that aren’t fully informed. At the start of this project, I had an idea of the story that I wanted to tell in my mind and tried to find data that would support that narrative. What I learned along the way was that my original idea was very ambitious and would require multiple data sets that weren’t publicly available. For instance, I couldn’t find consolidated funding data or the right census data. A lot of the data that I needed cost upwards of $200 and the majority of it focused on the arts sector instead of the museum sector. 
+
+Due to these issues with finding data, I stuck with using the IMLS Museum Data Files as the base of my story and used Tabula to extract smaller data sets from IMLS’ annual reports. I decided to drop the census data component. In addition to extracting data from reports and websites, I also had to do a lot of work in Excel to clean up these data sets and format them to work together in Tableau.   
+
+I’m glad that I decided to stick with Tableau to complete this project. There was a significant learning curve that I had to overcome having never used a program like Tableau before. Since my story and my data sets had changed by the time that I was going to create the final visualizations, I spent a lot of time experimenting in Tableau. Starting with the IMLS Museum Data Files, I made a lot of extra visualizations to understand what story the data could tell. The majority of these were later deleted. Based on the few visualizations that seemed effective from these data sets, I was able to find additional IMLS data to build out my story. However, I still feel like there are pieces that are missing to make an impactful, specific call to action. I guess part of my call to action is that the museum field needs better data in order to understand its impact and make a case for increased IMLS appropriations. 
+
+When it came time to export my visualizations, I struggled to figure out the process of getting the HTML code to embed in Shorthand. A few of my visualizations had filters that I wanted to use as an interactive element in my final project. In the end, I exported my charts as images. I realize that this approach isn’t the most efficient way to display filtered versions of my charts. There’s still a lot of features of Tableau that I hope to learn. One of my goals is to become more skilled at working with code. The GitHub part of the class allowed me to start working toward that goal.
+
+I chose to build out my final project in Shorthand, because I wanted to take advantage of the opportunity to learn a new platform. I liked how easy it is to place and cite images in Shorthand. I liked that it has a limited selection of layouts but sometimes these options were limiting. I couldn’t always place my visualizations in line with the accompanying text, which may make my story read disjointedly. I also learned that Shorthand has a limit to the amount of sections that you can add to your webpage. Once I hit the limit I had to figure out how I was going to rearrange my text and charts to fit within that space. 
+
 
 **Link to Final Data Story:**
+
 https://carnegiemellon.shorthandstories.com/Alena-Howe-Museums/index.html
+
 
 **References**
 
