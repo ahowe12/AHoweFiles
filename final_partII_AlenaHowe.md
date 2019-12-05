@@ -1,6 +1,7 @@
 # Final Project, Part II
 
 Return to [portfolio](https://ahowe12.github.io/Alena-Howe-s-Portfolio/)
+Link to Final Project, Part III: [Final Project, Part III](Final Project, Part III.md)
 
 **Storyboard**
 
