@@ -32,7 +32,7 @@ I chose to build out my final project in Shorthand, because I wanted to take adv
 
 **Link to Final Data Story:**
 
-[Shorthand Project] (https://carnegiemellon.shorthandstories.com/Alena-Howe-Museums/index.html)
+https://carnegiemellon.shorthandstories.com/Alena-Howe-Museums/index.html
 
 
 **References**
